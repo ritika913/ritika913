@@ -12,69 +12,15 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 
 # 👩‍💻 About Me
 
-🎓 Computer Science undergraduate passionate about solving real-world problems through software and artificial intelligence.
+🎓 Computer Science undergraduate passionate about building software that solves real-world problems.
 
-💻 Interested in **Software Engineering**, **Machine Learning**, **Computer Vision**, and **Full Stack Development**.
+💡 Interested in **Software Engineering**, **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, and **Full Stack Development**.
 
-🌱 Currently exploring **System Design**, **Cloud Technologies**, and **Data Structures & Algorithms**.
+🌱 Currently learning and strengthening my **Data Structures & Algorithms** skills.
 
-🚀 Always excited to learn new technologies and build impactful projects.
+🚀 I enjoy building scalable web applications and exploring AI-powered solutions.
 
 📫 **Email:** ritika2013.r@gmail.com
-
----
-
-# 🚀 Featured Projects
-
-## 🏠 WanderNest
-
-A full-stack Airbnb-inspired web application that allows users to browse, create, and manage property listings with authentication and responsive design.
-
-**Tech Stack**
-- React
-- Node.js
-- Express
-- MongoDB
-
----
-
-## 📚 Student Management System
-
-A Spring Boot application for efficiently managing student records with complete CRUD functionality and REST APIs connected to a MySQL database.
-
-**Highlights**
-- Student registration
-- Update/Delete records
-- REST APIs
-- MySQL integration
-
-**Tech Stack**
-- Java
-- Spring Boot
-- MySQL
-
----
-
-## 🌸 Flower Classification using CNN
-
-A deep learning project that classifies flower species using Convolutional Neural Networks and identifies dominant flower colors using OpenCV and K-Means clustering.
-
-**Highlights**
-- Image Classification
-- TensorFlow
-- Color Detection
-- Computer Vision
-
----
-
-## 🍽 Little Lemon Restaurant Website
-
-A responsive restaurant website featuring modern UI components, interactive pages, and a mobile-friendly layout.
-
-**Tech Stack**
-- HTML
-- CSS
-- JavaScript
 
 ---
 
@@ -96,8 +42,7 @@ A responsive restaurant website featuring modern UI components, interactive page
 
 ### ⚙️ Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### 🗄️ Database
 
@@ -121,44 +66,31 @@ A responsive restaurant website featuring modern UI components, interactive page
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 Featured Projects
 
-<p align="center">
+### 🏠 WanderNest
 
-<img src="https://github-readme-stats.vercel.app/api?username=ritika913&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritika913&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+A full-stack accommodation booking platform inspired by Airbnb where users can browse listings, create and manage properties, authenticate securely, and enjoy a responsive user experience.
 
 ---
+
+### 📚 Student Management System
+
+A web-based application that simplifies student record management by providing secure CRUD operations through REST APIs, making academic data management more efficient and organized.
+
+---
+
+### 🌸 Flower Classification using CNN
+
+A computer vision project that classifies flower species using deep learning while also detecting dominant flower colors through image processing techniques, demonstrating practical applications of AI.
+
+---
+
 
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=ritika913&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ritika913&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ritika913&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
 </p>
 
 ---
