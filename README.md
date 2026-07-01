@@ -42,10 +42,6 @@
 > Demonstrates the practical application of deep learning, image classification, and color detection for real-world datasets.
 > **Stack:** Python · TensorFlow · OpenCV · NumPy · Scikit-learn
 
-### 📚 Student Management System
-> A Spring Boot web application that streamlines student record management through secure CRUD operations and RESTful APIs.
-> Demonstrates backend development, database integration, and clean software architecture using Java and MySQL.
-> **Stack:** Java · Spring Boot · MySQL · REST APIs
 ---
 ## 📈 GitHub Activity
 
